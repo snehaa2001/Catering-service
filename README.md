@@ -16,3 +16,16 @@ Adds customer details like customer’s name , phone number and their address .
 Adds customer orders and their order details .
 Stores the details of customer and their orders in the database . 
 
+# SEARCH 
+Used to search customer details like customer’s name , phone number and their address that we inserted .
+Displays the customer detais and their order details .
+
+# DELETE
+In this option the customer can remove the inserted customer details.
+The customer details are removed only if they paid their full amout .
+If they paid only half of the amount the datas will not be removed from the database .
+
+# UPDATE
+In this update menu ,  we have three options - phone number , address and the orders .
+The customer can choose any of them they need to update or change
+The current changes will be updated in the database .
