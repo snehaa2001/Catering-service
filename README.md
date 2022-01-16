@@ -3,7 +3,10 @@ The main objective of this project is to manage the details of food,items,sales,
 # OVERVIEW
 This project consists of four main classes:
           ✤ INSERT
+         
           ✤ SEARCH
+          
           ✤ DELETE
+          
           ✤ UPDATE
 
