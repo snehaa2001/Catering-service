@@ -37,3 +37,10 @@ Address - VARCHAR
 Item - VARCHAR
 Bill - int
 
+# SCREENSHOTS
+![image](https://user-images.githubusercontent.com/89207792/149670218-eb158d6a-7cce-4f94-97ff-eeb55dd8ec08.png)
+![image](https://user-images.githubusercontent.com/89207792/149670225-2c897fa7-0e2a-4851-992a-bd3e3ec31bc1.png)
+![image](https://user-images.githubusercontent.com/89207792/149670236-61bfb899-1bb9-43a9-a394-b4e11bd0b63d.png)
+![image](https://user-images.githubusercontent.com/89207792/149670249-8b6d0a38-26d4-482e-b67f-d48de4511191.png)
+![image](https://user-images.githubusercontent.com/89207792/149670262-cbf6d818-c181-4bec-b475-b504219fb22a.png)
+![image](https://user-images.githubusercontent.com/89207792/149670266-b7dc720b-624d-48b4-9022-77c8cb439e04.png)
