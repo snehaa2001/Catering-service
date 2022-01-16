@@ -29,3 +29,11 @@ If they paid only half of the amount the datas will not be removed from the data
 In this update menu ,  we have three options - phone number , address and the orders .
 The customer can choose any of them they need to update or change
 The current changes will be updated in the database .
+
+# RELATIONAL DATABASE DESIGN
+The database CateringSystem contains the table CustomerData . The table consists of Customer name – VARCHAR(20)
+Phone number – int
+Address - VARCHAR
+Item - VARCHAR
+Bill - int
+
