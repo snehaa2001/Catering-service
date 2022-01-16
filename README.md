@@ -11,3 +11,8 @@ This project consists of four main classes:
           
           ✤ UPDATE
 
+# INSERT
+Adds customer details like customer’s name , phone number and their address .
+Adds customer orders and their order details .
+Stores the details of customer and their orders in the database . 
+
