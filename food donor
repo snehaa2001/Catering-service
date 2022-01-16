@@ -1,4 +1,4 @@
-package project.java;
+package cateringproject.java;
 
 import java.sql.*;
 import java.util.*;
@@ -183,7 +183,7 @@ public class neww extends JFrame  {
      
      final String URL1 = "jdbc:mysql://localhost:3306/";
      final String user1 = "root";
-     final String pass1 = "mathumathi";
+     final String pass1 = "sneha";
         Connection conn1 = null ;
         Statement stmt1 = null ;
         String sql_command1 = " ";
@@ -280,7 +280,7 @@ public class neww extends JFrame  {
     {
      final String URL2= "jdbc:mysql://localhost:3306/";
      final String user2 = "root";
-     final String pass2 = "mathumathi";
+     final String pass2 = "sneha";
         Connection conn2 = null ;
         Statement stmt2= null ;
         String sql_command2 = " ";
@@ -369,7 +369,7 @@ public class neww extends JFrame  {
     void searchget() throws SQLException{
         final String URL3 = "jdbc:mysql://localhost:3306/";
      final String user3 = "root";
-     final String pass3 = "mathumathi";
+     final String pass3 = "sneha";
         Connection conn3 = null ;
         Statement stmt3 = null ;
         String sql_command3 = " ";
@@ -440,7 +440,7 @@ class phone {
     {
         final String URL4 = "jdbc:mysql://localhost:3306/";
      final String user4 = "root";
-     final String pass4 = "mathumathi";
+     final String pass4 = "sneha";
         Connection conn4 = null ;
         Statement stmt4 = null ;
         String sql_command4 = " ";
@@ -512,7 +512,7 @@ class address {
             
      final String URL5 = "jdbc:mysql://localhost:3306/";
      final String user5 = "root";
-     final String pass5 = "mathumathi";
+     final String pass5 = "sneha";
         Connection conn5 = null ;
         Statement stmt5 = null ;
         String sql_command5 = " ";
@@ -619,7 +619,7 @@ class orders {
     {
         final String URL6 = "jdbc:mysql://localhost:3306/";
      final String user6 = "root";
-     final String pass6 = "mathumathi";
+     final String pass6 = "sneha";
         Connection conn6 = null ;
         Statement stmt6 = null ;
         String sql_command6 = " ";
